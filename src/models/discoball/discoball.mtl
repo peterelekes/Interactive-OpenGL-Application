@@ -1,0 +1,22 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl DiscoBall.001
+Ns 487.688660
+Ka 1.000000 1.000000 1.000000
+Ks 0.347107 0.347107 0.347107
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd DiscoBall.png
+map_d DiscoBall.png
+
+newmtl DiscoRod
+Ns 320.487030
+Ka 0.743802 0.743802 0.743802
+Kd 0.258545 0.258545 0.258545
+Ks 0.623967 0.623967 0.623967
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3

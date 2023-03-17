@@ -1,0 +1,62 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Chrome
+Ns 94.117653
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/scratched-light-concrete-3.png
+
+newmtl floor
+Ns 94.117653
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/black-speckled-paper-texture.png
+
+newmtl footings
+Ns 94.117653
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/scratched-light-concrete-3.png
+
+newmtl light_handle
+Ns 92.156860
+Ka 1.000000 1.000000 1.000000
+Kd 0.025243 0.023405 0.035218
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl light_inside_bar
+Ns 92.156860
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/black-speckled-paper-texture.png
+
+newmtl light_pot
+Ns 92.156860
+Ka 1.000000 1.000000 1.000000
+Kd 0.003642 0.000553 0.000922
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
